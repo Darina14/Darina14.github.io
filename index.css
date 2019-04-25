@@ -1,0 +1,40 @@
+body{
+	background: linear-gradient(to top,	#FFFF00,coral)no-repeat;
+	
+
+}
+#navigation{
+	
+
+}
+
+
+.menu{
+	 list-style:none;          
+   padding:10px;  
+      }
+ .menu li a{  
+display:block;
+border: 1px solid black;
+ padding:10px;
+  background:;
+ text-decoration: none; }
+.menu li{  
+ margin-left:200px;
+ float:left;
+ display: inline-block;
+}
+#text{
+	margin-top: 10px;
+	float: left;
+	width: 60%;
+
+
+}
+#image{
+	border: 3px solid black;
+	float: left;
+	margin-top: 10px;
+	margin-left: 20px;
+}
+
